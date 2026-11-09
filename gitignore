@@ -1,0 +1,56 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+
+venv/
+.venv/
+env/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# VS Code
+
+.vscode/
+
+# Python cache
+
+.pytest_cache/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+
+# Environment variables
+
+.env
+
+# Model files
+
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# Large generated files
+
+outputs/
+models/
+
+# Secrets
+
+secrets.json
